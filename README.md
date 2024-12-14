@@ -1,4 +1,4 @@
-**Data Visualization Projects**
+**Data Visualization Projects** Created by Jaida
 
 **Project Overview**
 
